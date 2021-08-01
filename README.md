@@ -2,6 +2,7 @@
 Web interface for making sales predictions. This is built using streamlit
 This is a model that makes predctions about what the sales will be for Rossman Phamarceutical Stores.
 Input:
+
     Store Id,
     DayofWeek,
     Promo,
@@ -13,5 +14,6 @@ Input:
     StateHoliday,
     StateHoliday_a,
     StateHoliday_b
+
 Output:
     Predicted sales 
