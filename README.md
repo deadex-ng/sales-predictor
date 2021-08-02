@@ -16,4 +16,4 @@ Input:
     StateHoliday_b
 
 Output:
-    Predicted sale 
+    Predicted sales 
